@@ -7,7 +7,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration.
 title = "Plygrnd"
 author = "Dan Urson"
-copyright = "Copyright © 2021, Dan Urson."
+copyright = "Copyright © 2022, Dan Urson."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
